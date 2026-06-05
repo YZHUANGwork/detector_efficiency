@@ -41,6 +41,7 @@ This repo is part of a larger set of tools for dark matter and neutrino signal m
 ├── neutrino_spectrum/     ← https://github.com/YZHUANGwork/neutrino_spectrum
 ├── wimp_spectrum/         ← https://github.com/YZHUANGwork/wimp_spectrum
 └── detector_efficiency/   ← this repo
+└── phase-split/           ← https://github.com/YZHUANGwork/phase-split
 ```
 
 ## Acknowledgements
